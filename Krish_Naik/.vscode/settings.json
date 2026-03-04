@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "/Users/abdulqadir0210423gmail.com/Desktop/PROGRAMING/Python/Krish_Naik/venv/bin/python",
+    "python.pythonPath": "/Users/abdulqadir0210423gmail.com/Desktop/PROGRAMING/Python/Krish_Naik/venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.defaultKernel": "/Users/abdulqadir0210423gmail.com/Desktop/PROGRAMING/Python/Krish_Naik/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/abdulqadir0210423gmail.com/Desktop/PROGRAMING/Python/Krish_Naik/venv/lib/python3.13/site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/Users/abdulqadir0210423gmail.com/Desktop/PROGRAMING/Python/Krish_Naik/venv/lib/python3.13/site-packages"
+    ]
+}
